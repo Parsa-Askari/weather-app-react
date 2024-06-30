@@ -1,0 +1,11 @@
+.container{
+    background-color:rgba(0,0,0,0.4);
+    border-radius: 30px 30px;
+}
+.main-content{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+}
