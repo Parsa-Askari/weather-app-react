@@ -9,3 +9,9 @@
     margin: 20px;
     padding: 20px;
 }
+.feels , .humidity , .wind{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
